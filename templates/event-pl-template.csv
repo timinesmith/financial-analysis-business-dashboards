@@ -1,0 +1,17 @@
+section,line_item,amount,source_or_note
+Revenue,Tickets,0,Box office settlement
+Revenue,Food and beverage,0,POS report
+Revenue,Rentals and fees,0,Contract / invoice
+Revenue,Sponsorship,0,Executed agreement
+Direct costs,Artist guarantee,0,Contract
+Direct costs,Production labor,0,Approved timesheets
+Direct costs,Equipment and rentals,0,Vendor invoice
+Direct costs,Security and event staff,0,Staffing roster
+Direct costs,Hospitality,0,Receipts
+Contribution,Event contribution,0,Revenue less direct costs
+Allocated costs,Facility labor allocation,0,Approved allocation method
+Allocated costs,Utilities allocation,0,Approved allocation method
+Allocated costs,Administrative allocation,0,Approved allocation method
+Result,Net event result,0,Contribution less allocated costs
+Review,Variance explanation,,Manager review required
+Review,Settlement approved by,,Name / role / date
