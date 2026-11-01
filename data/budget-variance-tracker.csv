@@ -1,0 +1,9 @@
+month,category,budget,actual,variance,variance_percent,status,owner,explanation
+2026-01,Revenue,85000,87250,2250,2.65,Favorable,Operations,Synthetic example: stronger group sales
+2026-01,Payroll,34000,35200,-1200,-3.53,Review,Finance,Synthetic example: added event shift
+2026-01,Vendors,18000,17100,900,5.00,Favorable,Procurement,Synthetic example: negotiated delivery timing
+2026-01,Marketing,6500,6900,-400,-6.15,Review,Marketing,Synthetic example: campaign extension
+2026-02,Revenue,88000,86100,-1900,-2.16,Review,Operations,Synthetic example: weather-related softness
+2026-02,Payroll,35000,34800,200,0.57,On plan,Finance,Synthetic example
+2026-02,Vendors,18500,19400,-900,-4.86,Review,Procurement,Synthetic example: rush order
+2026-02,Marketing,6500,6300,200,3.08,On plan,Marketing,Synthetic example

@@ -1,0 +1,7 @@
+month,opening_cash,forecast_receipts,forecast_payroll,forecast_vendors,forecast_other,forecast_ending_cash,confidence,note
+2026-03,25000,62000,30000,18000,7000,32000,Medium,Synthetic demonstration
+2026-04,32000,66000,31500,19000,7500,40000,Medium,Synthetic demonstration
+2026-05,40000,71000,33000,20500,8000,49500,Medium,Synthetic demonstration
+2026-06,49500,69000,32500,20000,7800,58200,Low,Synthetic demonstration
+2026-07,58200,64000,31000,18500,7200,65500,Low,Synthetic demonstration
+2026-08,65500,67500,32000,19500,7600,73900,Low,Synthetic demonstration
